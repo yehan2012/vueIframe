@@ -62,7 +62,7 @@ height:100%;
     border: 1px solid red;
     border-top:none;
     position: absolute;
-    top: 62px;
+    top: 60px;
     left: 0;
     bottom: 0;
     right: 0;
