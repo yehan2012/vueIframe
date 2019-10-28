@@ -16,7 +16,7 @@
     <el-tab-pane class="temp"  label="百度" name="third">
        <iframe v-if="ifArr.third"  class="ifa" scrolling=auto src="https://www.baidu.com/" frameborder="0"></iframe>
     </el-tab-pane>
-     <el-tab-pane class="temp"  label="掘金2" name="fourth">
+     <el-tab-pane class="temp"  label="掘金3" name="fourth">
        <iframe v-if="ifArr.third"  class="ifa" scrolling=auto src="https://juejin.im" frameborder="0"></iframe>
     </el-tab-pane>
   </el-tabs>
